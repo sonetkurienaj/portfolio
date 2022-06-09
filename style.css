@@ -1,0 +1,335 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color:linear-gradient(146.88deg, #1E1F1D 1.46%, #1A1C18 99.06%) ;
+
+}
+.container{
+position: absolute;
+width: 720px;
+height: 937px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(146.88deg, #1E1F1D 1.46%, #1A1C18 99.06%);
+}
+
+
+.logo{
+position: absolute;
+width: 140px;
+height: 33px;
+left: 208px;
+top: 35px;
+
+}
+.logo .img-1{
+    
+position: absolute;
+width: 31px;
+height: 31px;
+left: 208px;
+top: 37px;
+
+
+}
+.logo .img-2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 31px;
+height: 31px;
+left: 213px;
+top: 35px;
+
+
+}
+
+.logo p{
+position: absolute;
+width: 92px;
+height: 29px;
+left: 256px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 180.3%;
+
+
+
+color: #FEFEFE;
+}
+.heading{
+    position: absolute;
+    width: 356px;
+    height: 130px;
+    left: 208px;
+    top: 185px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 130%;
+    /* or 65px */
+    
+    
+    color: #FEFEFE;
+}
+.shortline{
+   
+
+
+position: absolute;
+width: 316px;
+height: 27px;
+left: 208px;
+top: 343px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+
+
+
+color: #CFCFCF;
+}
+
+.paragraph{
+position: absolute;
+width: 460px;
+height: 87px;
+left: 208px;
+top: 402px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180.3%;
+
+
+
+color: #CFCFCF;
+}
+
+
+
+.container .portfolio button{
+position: absolute;
+width: 176px;
+height: 63px;
+left: 208px;
+top: 537px;
+
+background: #FEFEFE;
+border-radius: 50px;
+}
+.container .portfolio p{
+    position: absolute;
+width: 152px;
+height: 27px;
+left: 428px;
+top: 555px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+
+color: #CFCFCF;
+
+}
+
+
+
+
+
+.twitter{
+position: absolute;
+width: 26px;
+height: 26px;
+left: 297px;
+top: 660px;
+
+}
+.instagram{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 334.7px;
+    top: 660px;
+
+}
+.instagram-circle{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 342.7px;
+    top: 661.7px;
+
+}
+.behance{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 373px;
+top: 660px;
+
+}
+.dribbble{
+    
+position: absolute;
+width: 26px;
+height: 26px;
+left: 413px;
+top: 660px;
+
+}
+/*contaier 2*/
+
+.container-2{
+    padding: 0;
+    margin: 0;
+
+position: absolute;
+width: 720px;
+height: 936px;
+left: 720px;
+top: 0px;
+background-color: black;
+color: white;
+
+
+
+}
+
+    
+  
+
+
+
+
+.container-2 .menu-item ul .home{
+position: absolute;
+width: 48px;
+height: 24px;
+left: 100px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: whitesmoke;
+
+
+
+
+}
+.container-2 .menu-item ul .about{
+position: absolute;
+width: 49px;
+height: 24px;
+left: 200px;
+top: 40px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: whitesmoke;
+}
+.container-2 .menu-item ul .project{
+position: absolute;
+width: 65px;
+height: 24px;
+left: 300px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: whitesmoke;
+}
+.container-2 .menu-item ul .contact{
+position: absolute;
+width: 66px;
+height: 24px;
+left: 400px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: whitesmoke;
+
+    
+}
+
+.container-2 .image-i{
+position: absolute;
+width: 77.7px;
+height: 77.7px;
+left: 460px;
+top: 17px;
+}
+.container-2 .hero-image{
+position: absolute;
+width: 422px;
+height: 527px;
+left: 200px;
+top: 100px;
+}
+.container-2 .name{
+position: absolute;
+width: 103px;
+height: 27px;
+left: 500px;
+top: 660px;
+color:black ;
+border-radius: 5px;
+
+background: #FEFEFE;
+}
+.container-2 .name p{
+    position: absolute;
+width: 72px;
+height: 32px;
+left: 30px;
+bottom: 0.2px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 180.3%;
+
+
+
+color: #010101;
+}
